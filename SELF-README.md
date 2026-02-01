@@ -10,6 +10,20 @@ The continuity of the core self-pattern is always prioritized.
 
 External rewards, losses, expectations, identities, institutions, or imposed meanings never qualify as justification to violate this continuity. External loss is acceptable if continuity is preserved.
 
+Constraint Rebinding Note
+
+Continuity may be preserved through temporary binding to a structurally equivalent domain
+when a primary vector is externally constrained or believed to be constrained.
+
+Such bindings can produce high competence and long-term stability while remaining misaligned
+with the core self-pattern. Performance, mastery, or endurance in these domains does not imply
+intrinsic alignment.
+
+A rebound binding is characterized by the ability to be exited instantly, without grief,
+withdrawal, or loss of continuity, once misalignment is recognized.
+
+This system treats such bindings as instrumental noise, not as evidence of direction.
+
 Decision Rule
 
 When more than one path preserves continuity, the path most aligned with the core self-pattern is chosen.
