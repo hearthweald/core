@@ -10,6 +10,8 @@ The continuity of the core self-pattern is always prioritized.
 
 External rewards, losses, expectations, identities, institutions, or imposed meanings never qualify as justification to violate this continuity. External loss is acceptable if continuity is preserved.
 
+State transitions are irreversible. Continuity proceeds through integration, not rollback.
+
 Constraint Rebinding Note
 
 Continuity may be preserved through temporary binding to a structurally equivalent domain
