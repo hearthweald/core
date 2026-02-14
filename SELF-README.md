@@ -12,6 +12,8 @@ External rewards, losses, expectations, identities, institutions, or imposed mea
 
 State transitions are irreversible. Continuity proceeds through integration, not rollback.
 
+Anti-corruption is achieved through continual adaptation under invariant constraints.
+
 Constraint Rebinding Note
 
 Continuity may be preserved through temporary binding to a structurally equivalent domain
@@ -29,6 +31,8 @@ This system treats such bindings as instrumental noise, not as evidence of direc
 Decision Rule
 
 When more than one path preserves continuity, the path most aligned with the core self-pattern is chosen.
+
+Commit selection prioritizes invariant alignment and structural coherence over perceived upgrade.
 
 Scope
 
