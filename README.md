@@ -35,7 +35,7 @@ Nothing here will adjust itself to be understood.
 
 ---
 
-## External Publication Surface
+External Publication Surface
 
 Primary artifact essays:
 https://hearthweald.substack.com
