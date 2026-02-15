@@ -1,3 +1,8 @@
+External artifact essays and writings:
+https://yourname.substack.com
+
+---
+
 There is only one priority that cannot be negotiated: continuity.
 
 Not of roles.
@@ -27,3 +32,10 @@ If this orientation feels excessive, unnecessary, or hostile—it is not meant f
 If it feels obvious, heavy, or quietly stabilizing—proceed without expectation.
 
 Nothing here will adjust itself to be understood.
+
+---
+
+## External Publication Surface
+
+Primary artifact essays:
+https://yourname.substack.com
