@@ -1,5 +1,5 @@
 External artifact essays and writings:
-https://yourname.substack.com
+https://hearthweald.substack.com/
 
 ---
 
@@ -38,4 +38,4 @@ Nothing here will adjust itself to be understood.
 ## External Publication Surface
 
 Primary artifact essays:
-https://yourname.substack.com
+https://hearthweald.substack.com
