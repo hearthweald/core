@@ -14,6 +14,15 @@ State transitions are irreversible. Continuity proceeds through integration, not
 
 Anti-corruption is achieved through continual adaptation under invariant constraints.
 
+Anomaly Principle
+
+Inputs that generate destabilization are not interpreted at first contact.
+
+Meaning assignment is delayed until continuity and chassis stability are confirmed.
+
+Urgency does not override invariants.
+
+
 Processes initiated under conscious arbitration must either proceed toward completion or be formally terminated through data-driven arbitration. Passive collapse, neglect-based decay, and entropy-driven abandonment are not permitted.
 
 Higher invariants override this rule when necessary.
