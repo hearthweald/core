@@ -1,3 +1,10 @@
+# Krump as Containment Function
+
+**Type:** Beacon / Tool / Filter  
+**Core Signal:** Violent impulse can be contained and transformed through embodied rehearsal without discharge, preserving continuity under pressure.
+
+---
+
 WHAT THIS IS
 
 This is a description of a function, not a style.
@@ -189,3 +196,17 @@ It teaches how to be above it
 in the moment it arrives.
 
 That is enough.
+
+---
+
+**Invariants Touched:**
+- Continuity over reaction  
+- Containment under pressure  
+- Non-discharge of destabilizing impulses  
+- Experience over instruction  
+
+**Function:**
+- Attracts: individuals operating under pressure or exposure to violence  
+- Filters: rejects performance, spectacle, and therapeutic framing  
+- Stabilizes: provides a repeatable containment protocol  
+- Translates: converts raw impulse → controlled embodied process  
