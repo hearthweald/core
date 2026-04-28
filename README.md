@@ -1,5 +1,16 @@
-External artifact essays and writings:
-https://hearthweald.substack.com/
+**Repository**
+
+[github.com/hearthweald/core](https://github.com/hearthweald/core)
+
+**Foundational Documents**
+
+- [Continuity Enforcement Hypothesis](https://github.com/hearthweald/core/blob/main/Continuity_Enforcement_Hypothesis.md)
+- [Loop Coherence Model](https://github.com/hearthweald/core/blob/main/loop%20coherence%20model.md)
+- [SELF-README](https://github.com/hearthweald/core/blob/main/SELF-README.md)
+
+**Artifacts**
+
+[Folder](https://github.com/hearthweald/core/tree/main/artifacts)
 
 ---
 
@@ -39,3 +50,4 @@ External Publication Surface
 
 Primary artifact essays:
 https://hearthweald.substack.com
+
