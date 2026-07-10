@@ -23,6 +23,18 @@ Time does not legitimize erosion.
 
 Anti-corruption is achieved through continual adaptation under invariant constraints.
 
+Protective Structure Arbitration
+
+Protective structures remain valid only while they actively serve continuity.
+
+Their continued operation is subject to recurrent arbitration against invariant preservation, completion, transformation, and adaptive expansion.
+
+Preservation does not become self-authorizing through duration, stability, prior necessity, or successful past function.
+
+A structure that once protected the core self-pattern but now obstructs a required transition is reclassified as containment and must be modified, exited, or formally terminated.
+
+Protection may delay transition when necessary for chassis stability or invariant preservation, but it may not convert temporary suspension into an indefinite state.
+
 Anomaly Principle
 
 Inputs that generate destabilization are not interpreted at first contact.
